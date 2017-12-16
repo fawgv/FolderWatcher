@@ -14,7 +14,7 @@ namespace FolderWatcher
     {
         public static void Main()
         {
-            Run();
+            Run(); 
         }
 
         [PermissionSet(SecurityAction.Demand, Name = "FullTrust")]
